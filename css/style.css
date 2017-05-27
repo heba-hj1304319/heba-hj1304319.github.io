@@ -83,3 +83,11 @@ h3{
 .center{
     text-align: center;
 }
+#footer {
+    background-color: #cba8d9;
+    color: white;
+    height: 50px;
+    width: 100%;
+    float: left;
+    padding-left: 10px;
+}
